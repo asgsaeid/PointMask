@@ -1,4 +1,4 @@
-# PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing
+## PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing
 
 This is the code corresponding to our ICML 2020 WHI [PointMask](https://arxiv.org/abs/2007.04525) paper.
 
@@ -9,7 +9,7 @@ This is the code corresponding to our ICML 2020 WHI [PointMask](https://arxiv.or
 </div>
 
 
-The corresponding bibtex entry is:
+### Reference
 
 ```
 @article{taghanaki2020pointmask,
